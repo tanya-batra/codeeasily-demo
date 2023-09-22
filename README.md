@@ -1,2 +1,3 @@
 # codeeasily-demo
-it is my first code 
+it is my first code
+author tanya  
